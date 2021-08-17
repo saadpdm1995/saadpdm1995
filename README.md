@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Javascript/React 
 - 💞️ I’m looking to collaborate on automation scripts that help pdm
 
+To start off with, I am revisiting my already written code, cleaning it up and making it more readable to start sharing with everyone, still very early days!
+
 By the fall of 2021 I am looking to create a way for product managers to see requested code snippets, create pull requests and copy and use code out of the box!
 
 If you are interested in this, or want to learn more, or just want to grab a virtual coffee/drink (depends on time of day) feel free to reach out to me!
